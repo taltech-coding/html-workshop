@@ -4,17 +4,30 @@ Kuidas mall välja näeb? [https://taltech-coding.github.io/html-workshop/](http
 
 Tegu on repoga, mida kasutatakse TalTechi veebilehe tegemise töötoas.
 
-Selles töötoas saad teha endale ilusa veebilehe! Kujundame CSS-i kasutades ühe stiilse HTML veebilehe,
-millele lisame särtsu JavaScriptiga. Eelnev kogemus ei ole oluline,
-kuid enne töötuba võiks teha endale [GitHubi](https://github.com/) kasutaja.
+Selles töötoas saad teha endale ilusa veebilehe! Kujundame CSS-i kasutades ühe stiilse HTML veebilehe.
+Eelnev kogemus ei ole oluline.
 
-## Kuidas malli kasutada?
+## Variant 1 (IDE on olemas)
+1. Loo endale [GitHubi](https://github.com/) kasutaja.
+2. vali "Fork"
+![tutorial_img_1.png](tutorial_images/tutorial_img_1.png)
+3. Saad ise lisada repository'le nime ning vajuta _create fork_
+![img.png](tutorial_images/tutorial_img_2.png)
+4. Peale natukest laadimist peaks ette tulema sinu uus repo.
 
-1. vali "Fork"
-![tutorial_img_1.png](tutorial_img_1.png)
-2. Saad ise lisada repository'le nime ning vajuta _create fork_
-![img.png](tutorial_img_2.png)
-3. Peale natukest laadimist peaks ette tulema sinu uus repo.
+## Variant 2 (IDE ei ole)
+
+1. Lae alla repository.
+![tutorial_img_webIde_1.PNG](tutorial_images/tutorial_img_webIde_1.PNG)
+2. Ava allalaetud ZIP-fail ning extracti ehk paki see lahti sobivasse asukohta oma arvutis.
+3. Ava HCODX veebirakendus https://hcodx.com.
+4. Sealt valida.
+![tutorial_img_webIde_2.PNG](tutorial_images/tutorial_img_webIde_2.PNG)
+5. Vajuta "Select Folder" ja otsida üles asukoht kuhu töötoa fail sai salvestatud.
+![tutorial_img_webIde_3.PNG](tutorial_images/tutorial_img_webIde_3.PNG)
+6. Nüüd on kõik failid õiges kohas! Joontega ümbritsetud "play" nuppu vajutades avaneb uus vaade
+kus ongi teie VEEBILEHT! Kõik vajalikud failid, mis teil vaja on "html-workshop-main" kaustas vasakul.
+![tutorial_img_webIde_4.PNG](tutorial_images/tutorial_img_webIde_4.PNG)
 
 ## Repos on:
 * index.html - veebilehe HTML mall
